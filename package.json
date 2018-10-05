@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-rc522": "^16.0.3"
+  }
+}
