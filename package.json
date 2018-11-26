@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "node-rc522": "^16.0.3"
+    "lcd": "^2.0.4",
+    "node-mfrc522": "^1.0.0",
+    "request": "^2.88.0",
+    "sqlite3": "^4.0.2"
   }
 }
